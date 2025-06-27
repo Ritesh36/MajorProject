@@ -1,4 +1,4 @@
-Wanderlust
+
 Wanderlust is a web application for listing and reviewing vacation rentals. Users can sign up, log in, create listings, and leave reviews for various vacation spots. The application follows the MVC (Model-View-Controller) architecture to separate concerns and improve maintainability.
 
 Features
